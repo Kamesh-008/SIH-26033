@@ -81,6 +81,9 @@ Social: Empowers local agricultural cooperatives and brings digital financial to
 
 Environmental: Lowers carbon footprints and cuts down post-harvest food waste through optimized routing.
 
+DIAGRAM :-
+<img width="1024" height="572" alt="watermarked_img_5641395312365983181" src="https://github.com/user-attachments/assets/755bdf70-de35-4ef0-9d2a-2e6cf9a9f1b3" />
+
 ## Research and References
 
 Ministry of Consumer Affairs, Food & Public Distribution – Smart India Hackathon guidelines for SIH-26033.
